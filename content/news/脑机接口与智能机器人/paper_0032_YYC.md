@@ -6,7 +6,7 @@ categories: 脑机接口与智能机器人
 tags: 脑机接口与智能机器人
 authorimage: ../assets/images/global/favicon-32x32.png
 language: zh-CN
-featured_image: ../assets/images/featured/paper_images/paper_0032_图1.png
+featured_image: ../assets/images/featured/paper_images/paper_0032_图2.png
 summary: 论文“Decoding 3D Perception via BrainSSD:Synergistic Fusion of EEG Representations from Static and Dynamic Visual Streams”被计算机视觉领域顶会CVPR接收
 
 ---

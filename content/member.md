@@ -41,7 +41,7 @@ featured_image:
 {{< friend name="张晓珊" url="/members/member1/xiaoshan-zhang" logo="/images/members/xiaoshan-zhang.jpg" word="2023级硕士研究生" >}}
 {{< friend name="袁麒龙" url="/members/member1/qilong-yuan" logo="/images/members/qilong-yuan1.jpg" word="2023级硕士研究生" >}}
 
-{{< friend name="王旭辉" url="/members/member1/xuhui-wang" logo="/images/members/xuhui-wang.jpg" word="2024级硕士研究生" >}}
+{{< friend name="王旭辉" url="/members/member1/xuhui-wang" logo="/images/members/xuhui_wang1.jpg" word="2024级硕士研究生" >}}
 {{< friend name="姚银城" url="/members/member1/yincheng-yao" logo="/images/members/yincheng-yao-1.jpg" word="2024级硕士研究生" >}}
 {{< friend name="杨硕存" url="/members/member1/shuocun-yang" logo="/images/members/shuocun-yang.jpg" word="2024级硕士研究生" >}}
 {{< friend name="刘璇" url="/members/member1/xuan-liu" logo="/images/members/xuan-liu.jpg" word="2024级硕士研究生" >}}

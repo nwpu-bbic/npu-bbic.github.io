@@ -5,7 +5,7 @@ date: 2022-09-01T03:19:20+08:00
 summary: 硕士研究生
 categories: Members
 tags: Members
-featured_image: ../assets/images/featured/members/haiyang-zhang.jpg
+featured_image: ../assets/images/featured/members/di-zhu-1.jpg
 ---
 
 ## <center> ——2025届硕士研究生——
@@ -40,6 +40,10 @@ featured_image: ../assets/images/featured/members/haiyang-zhang.jpg
 haiyang.zhang@mail.nwpu.edu.cn
 
 ### · 代表论文
+| 方法                                  | 题目                                                                                                                                                                                                                                                                          | 链接                  |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| <img src="MM-RL.png" width="650"> | Shu Zhang, **Haiyang Zhang**, Ruoyang Wang, Yanqing Kang, Sigang Yu, Jinru Wu. A Novel Multi-Modality Framework for Exploring Brain Connectivity Hubs Via Reinforcement Learning Approach. International Symposium on Biomedical Imaging (ISBI), 2022. (已接收未发表) | [[PaperLink]]() [[Code]]() |
+|                                       |                                                                                                                                                                                                                                                                               |                       |
 
 | 方法                                  | 题目                                                                                                                                                                                                                                                                          | 链接                  |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |

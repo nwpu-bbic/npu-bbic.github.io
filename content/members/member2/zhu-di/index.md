@@ -8,12 +8,12 @@ tags: Members
 featured_image: ../assets/images/featured/members/di-zhu-1.jpg
 ---
 
-## <center> ——2025届硕士研究生——
+## <center> ——2026届硕士研究生——
 
 
-<center><img src="/images/团队要闻/TD_0029_3.png" align="center" alt="张海洋" title="张海洋" style="zoom:20%;"/></center>
+<center><img src="/images/团队要闻/TD_0030_1.png" align="center" alt="朱迪" title="朱迪" style="zoom:20%;"/></center>
 
-#### <center>  :small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:&emsp;张海洋&emsp;:small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
+#### <center>  :small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:&emsp;朱迪&emsp;:small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
 
 <img src="/images/团队要闻/0_1.png" align="center" />
 <div style="position: relative; background-image: url('/images/团队要闻/0.png'); background-size: 100% auto; padding: 0; padding-top: 0px; padding-bottom: 0px; padding-left: 55px; padding-right: 45px;">
@@ -33,23 +33,20 @@ featured_image: ../assets/images/featured/members/di-zhu-1.jpg
 
 ### · 研究方向
 
-基于强化学习和图神经网络的多模态大脑功能结构分析，大脑网络枢纽研究
+大脑功能与结构一致性研究
 
 ### · 邮箱
 
-haiyang.zhang@mail.nwpu.edu.cn
+di_zhu@mail.nwpu.edu.cn
 
 ### · 代表论文
 | 方法                                  | 题目                                                                                                                                                                                                                                                                          | 链接                  |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| <img src="MM-RL.png" width="650"> | Shu Zhang, **Haiyang Zhang**, Ruoyang Wang, Yanqing Kang, Sigang Yu, Jinru Wu. A Novel Multi-Modality Framework for Exploring Brain Connectivity Hubs Via Reinforcement Learning Approach. International Symposium on Biomedical Imaging (ISBI), 2022. (已接收未发表) | [[PaperLink]]() [[Code]]() |
+| <img src="dizhu.png" width="650"> | Shu Zhang, **Di Zhu**, Sigang Yu, Qilong Yuan, Kui Zhao, Yangqing Kang, Tuo Zhang, Xi Jiang, Tianming Liu. Characterizing and Differentiating Brain States through A CS-KBRs Framework for Highlighting the Synergy of Common and Specific Brain Regions[J]. Computerized Medical Imaging and Graphics, 2025:102609.| [[PaperLink]]() [[Code]]() |
 |                                       |                                                                                                                                                                                                                                                                               |                       |
 
-| 方法                                  | 题目                                                                                                                                                                                                                                                                          | 链接                  |
-| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| <img src="MM-RL.png" width="650"> | Shu Zhang, **Haiyang Zhang**, Ruoyang Wang, Yanqing Kang, Sigang Yu, Jinru Wu. A Novel Multi-Modality Framework for Exploring Brain Connectivity Hubs Via Reinforcement Learning Approach. International Symposium on Biomedical Imaging (ISBI), 2022. (已接收未发表) | [[PaperLink]]() [[Code]]() |
-|                                       |                                                                                                                                                                                                                                                                               |                       |
+
 
 ### · 出版论文
 
-[1] Shu Zhang, **Haiyang Zhang**, Ruoyang Wang, Yanqing Kang, Sigang Yu,Jinru Wu. A Novel Multi-Modality Framework for Exploring Brain Connectivity Hubs Via Reinforcement Learning Approach. International Symposium on Biomedical Imaging (ISBI), 2022. 
+[1] Shu Zhang, **Di Zhu**, Sigang Yu, Qilong Yuan, Kui Zhao, Yangqing Kang, Tuo Zhang, Xi Jiang, Tianming Liu. Characterizing and Differentiating Brain States through A CS-KBRs Framework for Highlighting the Synergy of Common and Specific Brain Regions[J]. Computerized Medical Imaging and Graphics, 2025:102609. 

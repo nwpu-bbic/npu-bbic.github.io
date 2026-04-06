@@ -1,7 +1,15 @@
 # 时间轴
 # timeline
 # 论文汇总
+- Year: 2026
+  Title: 2026年
+  TimeList: 
 
+    - Cal: 02月28日
+      Desc: Zhao K, Shi E, Zhu D, et al. MuST:Multi-Scale Transformer Incorporating Hierarchical Attention and TCN for EEG Decodin[J]. IEEE Journal of Biomedical and Health Informatics, 2026.
+            <br><a href="https://ieeexplore.ieee.org/abstract/document/11419751" target="_blank">https://ieeexplore.ieee.org/abstract/document/11419751</a>
+
+  
 - Year: 2025
   Title: 2025年
   TimeList: 

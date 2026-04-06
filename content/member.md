@@ -36,10 +36,10 @@ featured_image:
 <div class="flink" id="article-container">
 <div class="friend-list-div" >
 
-{{< friend name="赵奎" url="/members/member1/kui-zhao" logo="/images/members/kui-zhao.jpg" word="2023级硕士研究生" >}}
+<!-- {{< friend name="赵奎" url="/members/member1/kui-zhao" logo="/images/members/kui-zhao.jpg" word="2023级硕士研究生" >}}
 {{< friend name="朱迪" url="/members/member1/di-zhu" logo="/images/members/di-zhu.jpg" word="2023级硕士研究生" >}}
 {{< friend name="张晓珊" url="/members/member1/xiaoshan-zhang" logo="/images/members/xiaoshan-zhang.jpg" word="2023级硕士研究生" >}}
-{{< friend name="袁麒龙" url="/members/member1/qilong-yuan" logo="/images/members/qilong-yuan1.jpg" word="2023级硕士研究生" >}}
+{{< friend name="袁麒龙" url="/members/member1/qilong-yuan" logo="/images/members/qilong-yuan1.jpg" word="2023级硕士研究生" >}} -->
 
 {{< friend name="王旭辉" url="/members/member1/xuhui-wang" logo="/images/members/xuhui_wang1.jpg" word="2024级硕士研究生" >}}
 {{< friend name="姚银城" url="/members/member1/yincheng-yao" logo="/images/members/yincheng-yao-1.jpg" word="2024级硕士研究生" >}}

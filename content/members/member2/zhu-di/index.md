@@ -18,12 +18,12 @@ featured_image: ../assets/images/featured/members/di-zhu-1.jpg
 <img src="/images/团队要闻/0_1.png" align="center" />
 <div style="position: relative; background-image: url('/images/团队要闻/0.png'); background-size: 100% auto; padding: 0; padding-top: 0px; padding-bottom: 0px; padding-left: 55px; padding-right: 45px;">
     <p style="padding: 10px; margin: 0;">
-        &emsp;&emsp;张海洋，计算机学院2025届硕士研究生，师从张枢教授，研究方向为强化学习及大脑网络枢纽探索。在攻读硕士学位期间，以学生第一、第二作者发表论文三篇，申请发明专利1项，参与国家级项目1项，曾获研究生一等奖学金、二等奖学金，优秀研究生等多项荣誉。毕业后，他将入职科大讯飞有限公司，在工作岗位上继续前行。
+        &emsp;&emsp;朱迪，计算机学院2026届硕士研究生，师从张枢教授，中共党员，研究方向为大脑的结构与功能特性。在校期间曾担任班级团支部书记，曾获优秀研究生、优秀毕业生等多项荣誉。以第一作者在SCI二区期刊发表论文一篇，ei会议一篇，作为共同作者参与并发表高水平论文5篇，申请专利一项。毕业后，她将入职阿里云公司，在工作岗位上继续努力。
 
    
-&emsp;**毕业去向**：科大讯飞
+&emsp;**毕业去向**：阿里云
 
-&emsp;**毕业寄语**：尚未配妥剑，转眼便江湖；愿历经千帆，归来仍少年。
+&emsp;**毕业寄语**：路遥知马力，大家继续加油！
 </p>
 </div>
 <img src="/images/团队要闻/0_2.png" align="center" />

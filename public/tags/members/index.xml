@@ -6,7 +6,7 @@
     <description>Recent content in Members on NWPU BBIC</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2026 20:45:39 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 22:18:49 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/members/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>张晓珊</title>
@@ -44,6 +44,13 @@
       <description>硕士研究生</description>
     </item>
     <item>
+      <title>张晓珊</title>
+      <link>http://localhost:1313/members/member2/xiaoshan-zhang/</link>
+      <pubDate>Thu, 01 Sep 2022 03:19:20 +0800</pubDate>
+      <guid>http://localhost:1313/members/member2/xiaoshan-zhang/</guid>
+      <description>硕士研究生</description>
+    </item>
+    <item>
       <title>张海洋</title>
       <link>http://localhost:1313/members/member2/haiyang-zhang/</link>
       <pubDate>Thu, 01 Sep 2022 03:19:20 +0800</pubDate>
@@ -76,6 +83,20 @@
       <link>http://localhost:1313/members/member2/huawen-hu/</link>
       <pubDate>Thu, 01 Sep 2022 03:19:20 +0800</pubDate>
       <guid>http://localhost:1313/members/member2/huawen-hu/</guid>
+      <description>硕士研究生</description>
+    </item>
+    <item>
+      <title>袁麒龙</title>
+      <link>http://localhost:1313/members/member2/qilong-yuan/</link>
+      <pubDate>Thu, 01 Sep 2022 03:19:20 +0800</pubDate>
+      <guid>http://localhost:1313/members/member2/qilong-yuan/</guid>
+      <description>硕士研究生</description>
+    </item>
+    <item>
+      <title>赵奎</title>
+      <link>http://localhost:1313/members/member2/kui-zhao/</link>
+      <pubDate>Thu, 01 Sep 2022 03:19:20 +0800</pubDate>
+      <guid>http://localhost:1313/members/member2/kui-zhao/</guid>
       <description>硕士研究生</description>
     </item>
     <item>

@@ -13,18 +13,18 @@ featured_image: ../assets/images/featured/members/qilong-yuan.jpg
 
 
 
-<center><img src="/images/团队要闻/TD_0012_2.png" align="center" alt="袁麒龙" title="袁麒龙" style="zoom:20%;"/></center>
+<center><img src="/images/团队要闻/TD_0031_2.png" align="center" alt="袁麒龙" title="袁麒龙" style="zoom:20%;"/></center>
 
 #### <center>  :small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:&emsp;袁麒龙&emsp;:small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
 
 <img src="/images/团队要闻/0_1.png" align="center" />
 <div style="position: relative; background-image: url('/images/团队要闻/0.png'); background-size: 100% auto; padding: 0; padding-top: 0px; padding-bottom: 0px; padding-left: 55px; padding-right: 45px;">
     <p style="padding: 10px; margin: 0;">
-        &emsp;&emsp;康艳晴，计算机学院2024届硕士研究生，师从张枢教授，研究方向为大脑功能与结构一致性研究。在校期间曾获一等学业奖学金、校优秀毕业生、校优秀研究生等奖励及荣誉。以学生第一作者发表两篇论文（一篇医学影像顶会，一篇EI 会议），在投SCI二区一篇，作为共同作者参与并发表高水平论文6篇，申请并公开国家发明专利1项，参与西北工业大学研究生创新基金1项。毕业后，她将入职西安中兴新软件有限责任公司，在工作岗位上继续努力。
+        &emsp;&emsp;袁麒龙，计算机学院2026届硕士研究生，师从张枢教授，中共党员，研究方向为脑电信号与脑机接口。在校期间曾获国家奖学金、一等学业奖学金、优秀研究生、优秀毕业生等多项荣誉。以第一作者在SCI一区期刊发表论文一篇，ccf-b会议一篇，作为共同作者参与并发表高水平论文若干篇，申请专利一项。毕业后，他将入职阿里巴巴公司，在工作岗位上继续努力。
 
-&emsp;**毕业去向**：西安中兴新软件有限责任公司
+&emsp;**毕业去向**：阿里巴巴
 
-&emsp;**毕业寄语**：没有一个冬天不可逾越，没有一个春天不会来临。
+&emsp;**毕业寄语**：山重水复疑无路，柳暗花明又一村
     </p>
 </div>
 <img src="/images/团队要闻/0_2.png" align="center" />

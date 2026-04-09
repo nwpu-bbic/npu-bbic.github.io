@@ -13,7 +13,7 @@ featured_image:
 
 {{< friend name="赵奎" url="/members/member2/kui-zhao" logo="/images/members/kui-zhao.jpg" word="华为科技有限公司" >}}
 {{< friend name="张晓珊" url="/members/member2/xiaoshan-zhang" logo="/images/members/xiaoshan-zhang.jpg" word="赛力斯集团" >}}
-{{< friend name="袁麒龙" url="/members/member2/qilong-yuan" logo="/images/members/qilong-yuan1.jpg" word="" >}}
+{{< friend name="袁麒龙" url="/members/member2/qilong-yuan" logo="/images/members/qilong-yuan1.jpg" word="阿里巴巴" >}}
 {{< friend name="朱迪" url="/members/member2/zhu-di" logo="/images/members/di-zhu.jpg" word="阿里云" >}}
 {{< friend name="胡华文" url="/members/member2/huawen-hu" logo="/images/members/huawen-hu-1.jpg" word="西北工业大学深造读博" >}}
 {{< friend name="岳晨曦" url="/members/member2/chenxi-yue" logo="/images/members/chenxi-yue.jpg" word="国家电网" >}}
